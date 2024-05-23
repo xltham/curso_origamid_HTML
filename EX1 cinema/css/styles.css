@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+}
+
+h2 a {
+  color: seagreen;
+}
+a {
+  text-decoration: none ;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.paragrafo {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.title {
+  font-size: 50px;
+  color: darkcyan;
+}
+
+
+
+.hoje {
+  color: darkred;
+}
+
+.amanha {
+  color: darkblue;
+}
+
+.voltar {
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
